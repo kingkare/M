@@ -1,1 +1,30 @@
+[
+    {
+        "name": "驾校",
+        "info": "",
+        "icon": "t:驾#ff0080",
+        "sign": "33381f26cc250f2bb2260a764c8d8b4a",
+        "version": 98,
+        "type": "轻站",
+        "url": "驾校.mkz"
+    },
+    {
+        "name": "AV",
+        "info": "",
+        "icon": "t:AV#ff00ff",
+        "sign": "a453ef6d4404eb9087dabf1abc091093",
+        "version": 0,
+        "type": "轻站",
+        "url": "AV.mkz"
+    }
 
+  {
+        "name": "55",
+        "info": "",
+        "icon": "t:55#ff00ff",
+        "sign": "a453ef6d4404eb9087dabf1abc091093",
+        "version": 0,
+        "type": "轻站",
+        "url": "55影院.mkz"
+  }
+]
