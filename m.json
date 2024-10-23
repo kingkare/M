@@ -27,4 +27,15 @@
         "type": "轻站",
         "url": "555影视.mkz"
   },
+  ,
+
+  {
+        "name": "红杏",
+        "info": "",
+        "icon": "t:红杏#ff00ff",
+        "sign": "7370cd980a6b15d48771dac0hongxingshiping",
+        "version": 0,
+        "type": "轻站",
+        "url": "红杏视频.mkz"
+  },  
 ]
